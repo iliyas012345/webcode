@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+    justify-content: center;
+    font-size: 30px;
+    padding: 20px;
+    margin: 20px;
+    border: 30px;
+
+}
+
+div{
+    text-align: center;
+    padding: 20px;
+}
+
+input{
+    text-align: center;
+    color: crimson;
+    background-color:cornsilk;
+}
+
+.card{
+    text-align: center;
+    justify-content: center;
+    left: 40%;
+    bottom: 10%;
+    color: blueviolet;
+    background-color: darkgray;
+    
+    
+}
+.card-name{
+    color: aqua;
+}
+.card-isbn{
+    color: blue;
+}
+.card-number{
+    color: darkslategrey;
+}
+.card-authors{
+    color: lightsteelblue;
+}
+.card-publisher{
+    color: darksalmon;
+}
+.card-released{
+    color: purple;
+}
+.card-characters{
+    color: navy;
+}
